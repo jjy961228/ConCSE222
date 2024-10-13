@@ -32,4 +32,4 @@ After downloading the dataset, place it in the Koglish_dataset directory.
 Our released models are listed as follows. You can download these models using the shared Google Drive.
 |              Model              | Avg. STS-B |
 |:-------------------------------|:--------:|
-| [ [princeton-nlp/unsup-simcse-bert-base-uncased](https://huggingface.co/princeton-nlp/unsup-simcse-bert-base-uncased)](https://drive.google.com/drive/folders/10jMEpRlA9fgRaAZyC-Lw7LXKmTLpbv8B?usp=sharing) |   80.23 |
+| [ConCSE-mBERT-base](https://drive.google.com/drive/folders/10jMEpRlA9fgRaAZyC-Lw7LXKmTLpbv8B?usp=sharing) |   80.23 |
