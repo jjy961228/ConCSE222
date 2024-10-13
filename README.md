@@ -1,4 +1,4 @@
-## (ICPR'2024 Oral) ConCSE: Unified Contrastive Learning and Augmentation for Code Switched Embeddings.
+## (ICPR'2024 Oral presentation) ConCSE: Unified Contrastive Learning and Augmentation for Code Switched Embeddings.
 
 This repository contains the code and proposed Koglish datasets for our paper [ConCSE: Unified Contrastive Learning and Augmentation for Code-Switched Embeddings](https://arxiv.org/abs/2409.00120)
 
