@@ -33,3 +33,5 @@ Our released models are listed as follows. You can download these models using t
 |              Model              | Avg. Koglish-STS |
 |:-------------------------------|:--------:|
 | [ConCSE-mBERT-base](https://drive.google.com/drive/folders/10jMEpRlA9fgRaAZyC-Lw7LXKmTLpbv8B?usp=sharing) |   74.36 |
+| (ConCSE-XLM-R-base)To be continue.. |   76.60 |
+| (ConCSE-XLM-R-large)To be continue.. |   80.12 |
