@@ -30,6 +30,6 @@ After downloading the dataset, place it in the Koglish_dataset directory.
 ## Model List
 
 Our released models are listed as follows. You can download these models using the shared Google Drive.
-|              Model              | Avg. Koglish-STS-B |
+|              Model              | Avg. Koglish-STS |
 |:-------------------------------|:--------:|
-| [ConCSE-mBERT-base](https://drive.google.com/drive/folders/10jMEpRlA9fgRaAZyC-Lw7LXKmTLpbv8B?usp=sharing) |   80.23 |
+| [ConCSE-mBERT-base](https://drive.google.com/drive/folders/10jMEpRlA9fgRaAZyC-Lw7LXKmTLpbv8B?usp=sharing) |   74.36 |
