@@ -13,7 +13,7 @@ We recommend setting up a conda environment for the project:
 conda create --name=ConCSE python=3.8
 conda activate ConCSE
 
-git clone [https://github.com/jjy961228/ConCSE.git](https://github.com/jjy961228/ConCSE.git)
+git clone https://github.com/jjy961228/ConCSE.git
 pip install -r requirements.txt
 ```
 
