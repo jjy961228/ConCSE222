@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 
 ### Download datasets ###
-* Koglish datasets are uploaded to "https://huggingface.co/Jangyeong" and can be downloaded by running download_dataset.py.
+* Koglish datasets are uploaded to "[https://huggingface.co/Jangyeong](https://huggingface.co/Jangyeong)" and can be downloaded by running download_dataset.py.
 * Koglish-GLUE was used in the experiments in **section 5.1**. 
 * In the **ConCSE** experiment in **section 5.2**, Koglish-STS, Koglish-SICK, and Kolgish-NLI were used: Koglish-NLI was used for training, and Koglish-STS and Koglish-SICK were used for testing.
 ``` python
